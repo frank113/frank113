@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Greetings! I am Frank, a data engineer at [Axis Group](https://www.axisgroup.com) hailing from the great state of New Jersey. Prior to my time at Axis I completed both my Master's Degree in Statistical Practice and Bachelor's Degree in Statistics & Machine Learning at [Carnegie Mellon University](cmu.edu).
+Greetings! I am a data engineer at [Axis Group](https://www.axisgroup.com). Prior to my time at Axis I completed both my Master's Degree in Statistical Practice and Bachelor's Degree in Statistics & Machine Learning at [Carnegie Mellon University](cmu.edu).
 
 + I am currently working on:
     - Data pipeline frameworks
