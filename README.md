@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Greetings! I am a data engineer at [Axis Group](https://www.axisgroup.com). Prior to my time at Axis I completed both my Master's Degree in Statistical Practice and Bachelor's Degree in Statistics & Machine Learning at [Carnegie Mellon University](cmu.edu).
+Greetings! I am an experience data whispered who specializes in making your data work for you. I was previously a seinor data engineer at [Axis Group](https://www.axisgroup.com). Prior to my time at Axis I completed both my Master's Degree in Statistical Practice and Bachelor's Degree in Statistics & Machine Learning at [Carnegie Mellon University](cmu.edu).
 
 + I am currently working on:
     - Data pipeline frameworks
@@ -23,7 +23,6 @@ Greetings! I am a data engineer at [Axis Group](https://www.axisgroup.com). Prio
     - Alerting & Monitoring
 + I am currently learning:
     - Cloud-native architecture patterns
-    - Infrastructure-as-code
 + I'm looking to collaborate on:
     - Python & R packages
     - Data science
@@ -37,7 +36,6 @@ Greetings! I am a data engineer at [Axis Group](https://www.axisgroup.com). Prio
     - Twitter: [@statkovacs](https://twitter.com/statkovacs)
     - Website: [frank-kovacs.net](frank-kovacs.net)
     - Personal Email: frankkovacs8@gmail.com
-    - Work Email: frank.kovacs@axisgroup.com
 + Fun facts:
     - I have caught all 1,015 Pokemon!
     - I am guily of over-forking interesting repositories
