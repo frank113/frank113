@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Greetings! I am an experience data whispered who specializes in making your data work for you. I was previously a seinor data engineer at [Axis Group](https://www.axisgroup.com). Prior to my time at Axis I completed both my Master's Degree in Statistical Practice and Bachelor's Degree in Statistics & Machine Learning at [Carnegie Mellon University](cmu.edu).
+Greetings! I am an experienced data whispered who specializes in making your data work for you. I am currently a Senior Software Engineer at the streaming division of [The Walt Disney Company](https://www.disneyplus.com). Prior to my time at Disney. Prior to my time at Disney I completed both my Master's Degree in Statistical Practice and Bachelor's Degree in Statistics & Machine Learning at [Carnegie Mellon University](cmu.edu).
 
 + I am currently working on:
     - Productionalization of ML and AI models
@@ -33,7 +33,7 @@ Greetings! I am an experience data whispered who specializes in making your data
 + How to reach me:
     - Twitter: [@statkovacs](https://twitter.com/statkovacs)
     - Website: [frank-kovacs.net](frank-kovacs.net)
-    - Personal Email: frankkovacs8@gmail.com
+    - Personal Email: frkovacs@outlook.com
 + Fun facts:
     - I have caught all 1,025 Pokemon!
     - I am guily of over-forking interesting repositories
