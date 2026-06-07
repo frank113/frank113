@@ -15,21 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Greetings! I am an experienced data whispered who specializes in making your data work for you. I am currently a Senior Software Engineer at the streaming division of [The Walt Disney Company](https://www.disneyplus.com). Prior to my time at Disney. Prior to my time at Disney I completed both my Master's Degree in Statistical Practice and Bachelor's Degree in Statistics & Machine Learning at [Carnegie Mellon University](cmu.edu).
+Greetings! I am an experienced data whispered who specializes in making your data work for you. I am currently a Senior Software Engineer at the streaming division of [The Walt Disney Company](https://www.disneyplus.com). Prior to my time at Disney I was a senior data engineer at Axis Group architecting and building data platforms for enterprise clients. Prior to that I completed both my Master's Degree in Statistical Practice and Bachelor's Degree in Statistics & Machine Learning at [Carnegie Mellon University](cmu.edu).
 
 + I am currently working on:
+    - Open-source models
+    - Practical (and safe) agentic workflows
     - Productionalization of ML and AI models
-    - Alerting & Monitoring
-+ I am currently learning:
-    - AI architecture patterns
-    - Cloud-first deployments
 + I'm looking to collaborate on:
     - Python & R packages
     - Data science projects
 + Ask me about:
     - R: My first programming langauge!
     - JavaScript packaging
-    - Alerting frameworks
+    - Practical AI usage
 + How to reach me:
     - Twitter: [@statkovacs](https://twitter.com/statkovacs)
     - Website: [frank-kovacs.net](frank-kovacs.net)
